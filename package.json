@@ -1,0 +1,12 @@
+{
+  "name": "xs-private-core",
+  "version": "1.0.0",
+  "description": "Private core module by Than XS",
+  "main": "index.js",
+  "type": "commonjs",
+  "author": "Than XS",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "npm:dgxeon-soket@^7.0.3"
+  }
+}
