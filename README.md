@@ -26,7 +26,7 @@ As i continue learning, this module will evolve and improve over time.
 
 ## 🏗 Project Structure
 
-    private-core-module
+    xs-private-core
     │
     ├── lib
     │   └── xsModule.js
