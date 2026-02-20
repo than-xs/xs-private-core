@@ -11,7 +11,7 @@
 This repository contains core functionality used across my projects.  
 It is structured to help me practice writing cleaner, more organized, and maintainable code.
 
-As I continue learning, this module will evolve and improve over time.
+As i continue learning, this module will evolve and improve over time.
 
 ---
 
@@ -26,14 +26,13 @@ As I continue learning, this module will evolve and improve over time.
 
 ## 🏗 Project Structure
 
-    core-module/
+    private-core-module
     │
-    ├── src/
-    │   ├── modules/
-    │   ├── helpers/
-    │   └── config/
+    ├── lib
+    │   └── xsModule.js
     │
-    ├── tests/
+    ├── index.js
+    ├── package.json
     └── README.md
 
 ---
@@ -41,7 +40,7 @@ As I continue learning, this module will evolve and improve over time.
 ## 🛠 Development Status
 
 This project is part of my ongoing learning journey.  
-Changes and refinements will be made as I gain more experience.
+Changes and refinements will be made as i gain more experience.
 
 ---
 
