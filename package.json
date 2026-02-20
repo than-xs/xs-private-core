@@ -7,6 +7,7 @@
   "author": "Than XS",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:dgxeon-soket@^7.0.3"
+    "@whiskeysockets/baileys": "npm:dgxeon-soket@^7.0.3",
+    "crypto": "^1.0.1"
   }
 }
