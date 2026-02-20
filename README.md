@@ -31,9 +31,9 @@ As i continue learning, this module will evolve and improve over time.
     ├── lib
     │   └── xsModule.js
     │
+    ├── README.md
     ├── index.js
-    ├── package.json
-    └── README.md
+    └── package.json
 
 ---
 
