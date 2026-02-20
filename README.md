@@ -1,71 +1,48 @@
-<h1 align="center">⚙️ Private Core Module</h1>
+<h1 align="center">Core Module</h1>
 
 <p align="center">
-  Internal system module powering core logic & foundational architecture.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/type-core%20module-1A1A1A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/visibility-private-2CA5E0?style=for-the-badge"/>
+  A private repository containing foundational logic and reusable components.
 </p>
 
 ---
 
-## 📌 Overview
+## 📌 Description
 
-This repository contains the **core logic and essential components** used across internal projects.
+This repository serves as a central place for core functionality used in my projects.  
+It focuses on maintaining a simple, organized, and maintainable structure.
 
-It is designed to be:
-
-- 🧩 Modular  
-- 🔒 Structured  
-- ⚡ Lightweight  
-- 🚀 Scalable  
+As I continue learning, this module will gradually improve and evolve.
 
 ---
 
-## 🏗 Architecture Principles
+## 🎯 Goals
 
-- Separation of concerns  
-- Reusable functions & utilities  
-- Clean and readable structure  
-- Minimal external dependencies  
-
----
-
-## 📂 Project Structure
-core-module/ │ ├── src/ │   ├── modules/ │   ├── utils/ │   └── config/ │ ├── tests/ └── README.md
----
-
-## 🎯 Purpose
-
-This module acts as:
-
-- A foundation layer for larger systems  
-- A reusable logic container  
-- A central place for shared functionality  
+- Build reusable and structured code  
+- Practice writing cleaner logic  
+- Improve understanding of modular development  
+- Maintain consistent project organization  
 
 ---
 
-## 🛠 Tech Stack
-
-Adjust this section based on your stack.
-
-Example:
-
-- JavaScript / Node.js  
-- Git  
-- Modular Architecture  
+## 🏗 Structure
+core-module/ │ ├── src/ │   ├── modules/ │   ├── helpers/ │   └── config/ │ ├── tests/ └── README.md
+Salin kode
 
 ---
 
-## 🔐 Access
+## 🛠 Development Notes
 
-This repository is private and intended for internal development only.
+This repository is part of my learning journey.  
+The structure and implementation may change over time as I gain more experience.
+
+---
+
+## 🔒 Visibility
+
+This repository is private and intended for internal development and experimentation.
 
 ---
 
 <p align="center">
-  ⚡ Built with focus and structure  
+  Learning step by step.
 </p>
